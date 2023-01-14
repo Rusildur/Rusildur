@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/Mustafin_Ruslan_F" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/ee6cc5e5c82c5c9ba48498e23f1b37e5c7dd4ae4/icons/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Mustafin_Ruslan_F" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/fe132de777ed44df01c679632014396e04e47238/icons/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://www.goodreads.com/user/show/99753736-ruslan" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/ee6cc5e5c82c5c9ba48498e23f1b37e5c7dd4ae4/icons/goodreads.svg" alt="daniilshat" height="40" width="40" /></a>
 </p>
 

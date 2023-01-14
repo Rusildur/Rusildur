@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ruslan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data analytic student from Russia</h3>
+<h3 align="center">Data Analyst Student from Russia</h3>
 <!--
 **Rusildur/Rusildur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

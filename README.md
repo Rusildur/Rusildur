@@ -18,6 +18,7 @@
  <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/0a0937ea8317526efdda7ddb5f14db893a001e3d/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/4f1f68063151532c1e8e7103cb628bba7839fb64/icons/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/0a0937ea8317526efdda7ddb5f14db893a001e3d/icons/postgresql.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/b50f1efc63fa7971c5c175c0e2afc165feddcbc6/icons/sqlite.svg" alt="sql" width="40" height="40"/> </a> 
   
 </p>
 
@@ -27,7 +28,8 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/0a0937ea8317526efdda7ddb5f14db893a001e3d/icons/jupyter.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://support.microsoft.com/en-us/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/0a0937ea8317526efdda7ddb5f14db893a001e3d/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/> </a> 
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/8e229da9e9eb15d77e5f9a57975cf2fb9a63a65c/icons/colab.svg" alt="colab" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/"> <img src="https://github.com/Rusildur/Rusildur/blob/646723f142b754874f9f4d10775e974a33b1b930/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com"> <img src="https://github.com/Rusildur/Rusildur/blob/646723f142b754874f9f4d10775e974a33b1b930/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a>
+ <a href="https://www.google.com/intl/ru/sheets/about/"> <img src="https://github.com/Rusildur/Rusildur/blob/235123245932d77215f7170c5158b02009149635/icons/sheets.svg" alt="tableau" width="40" height="40"/> </a> 
 </p>
 
 ### About me:

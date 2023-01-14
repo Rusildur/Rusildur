@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ruslan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/Rusildur/Rusildur/blob/927879370ea70d71dda27d9489191b181ceb41b2/icons/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Analyst Student from Russia</h3>
 
 

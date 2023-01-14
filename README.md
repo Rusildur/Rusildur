@@ -9,8 +9,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/Mustafin_Ruslan_F" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/fe132de777ed44df01c679632014396e04e47238/icons/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="https://www.goodreads.com/user/show/99753736-ruslan" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/ee6cc5e5c82c5c9ba48498e23f1b37e5c7dd4ae4/icons/goodreads.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Mustafin_Ruslan_F" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/fe132de777ed44df01c679632014396e04e47238/icons/telegram.svg" alt="ruslan" height="40" width="40" /></a>
 </p>
 
 ### Languages:
@@ -23,4 +22,9 @@
 <p align="left"> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/78f679b6e251cf79a1f5465414269f2d7d4fe2ac/icons/visualstudiocode.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Rusildur/Rusildur/blob/018c800a16499bfae2ecff4f7f8f3d57897653f4/icons/jupyter.svg" alt="git" width="40" height="40"/> </a> 
+</p>
+
+### About me:
+<p align="left"> 
+<a href="https://www.goodreads.com/user/show/99753736-ruslan" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/9d1f66506d10d4027f02ef449d15c5988f2ab9eb/icons/goodreads.svg" alt="git" height="40" width="40" /></a>
 </p>

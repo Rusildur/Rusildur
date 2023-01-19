@@ -36,3 +36,4 @@
 <p align="left"> 
 <a href="https://www.goodreads.com/user/show/99753736-ruslan" target="blank"><img align="center" src="https://github.com/Rusildur/Rusildur/blob/9d1f66506d10d4027f02ef449d15c5988f2ab9eb/icons/goodreads.svg" alt="goodreads" height="40" width="40" /></a>
 </p>
+[![codewars](https://www.codewars.com/users/Rusildur/badges/large)](https://www.codewars.com/users/Rusildur) 
